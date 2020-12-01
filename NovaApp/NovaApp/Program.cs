@@ -6,7 +6,7 @@ namespace NovaApp
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od Dario Lucić");
+            Console.WriteLine("Pozdrav iz aplikacije od Dario Lucić - AI4565");
         }
     }
 }
